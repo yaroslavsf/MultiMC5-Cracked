@@ -60,3 +60,4 @@ This means you're accepting the:
 
 We humbly ask that in case you wish to fork UltimMC, please either remove the key by setting it empty (`""`) or by setting your own.
 
+
