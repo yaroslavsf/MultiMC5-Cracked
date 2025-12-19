@@ -9,6 +9,7 @@
 #include <QUrl>
 #include <updater/GoUpdate.h>
 
+
 #include <BaseInstance.h>
 
 #include "minecraft/launch/QuickPlayTarget.h"
