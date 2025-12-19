@@ -59,3 +59,4 @@ This means you're accepting the:
 - [Microsoft Identity Platform Terms of Use](https://learn.microsoft.com/en-us/legal/microsoft-identity-platform/terms-of-use)
 
 We humbly ask that in case you wish to fork UltimMC, please either remove the key by setting it empty (`""`) or by setting your own.
+
